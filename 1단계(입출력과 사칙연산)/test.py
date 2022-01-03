@@ -1,4 +1,2 @@
-A = int(input(""))
-B = int(input(""))
-
-print(A * ((B % 100) - (B % 10)))
+num = int(input())
+print(type(num))
